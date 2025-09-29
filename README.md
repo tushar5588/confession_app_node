@@ -45,6 +45,3 @@ The server will run on `http://localhost:5000`
 - `text` (String, required) - The comment text
 - `createdAt` (Date, default: Date.now) - Creation timestamp
 # confession_app_node
-# confession_app_node
-# confession_app_node
-# confession_app_node
