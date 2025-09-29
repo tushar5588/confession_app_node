@@ -6,6 +6,6 @@ services:
     region: oregon
     branch: main
     buildCommand: "npm install"
-    startCommand: "node index.js"
+    startCommand: "npm run dev
     autoDeploy: true
     healthCheckPath: "/"
